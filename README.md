@@ -1,27 +1,31 @@
-Estruturas de Dados Heterogêneas
+Estruturas de Dados Heterogêneas em C
 
-Exercício desenvolvido durante os estudos de Ciência da Computação, abordando estruturas de dados heterogêneas na linguagem C.
+Repositório com exercícios desenvolvidos durante meus estudos de Ciência da Computação, com foco no aprendizado de estruturas de dados heterogêneas na linguagem C.
+
+Exercícios
+
+1. Estruturas de dados heterogêneas — passo a passo
+Exercício guiado para praticar a criação e manipulação de estruturas em C, trabalhando com armazenamento, entrada e exibição de informações.
+
+2. Aplicação prática de `struct`
+Exemplo mais direto e objetivo, utilizando uma estrutura para armazenar dados de um paciente e uma função para exibir suas informações.
 
 Conceitos estudados
 
-struct: criação de estruturas com diferentes tipos de dados.
-
-Arrays de estruturas.
-
-Manipulação de strings com strcpy().
-
-Entrada de dados com scanf().
-
-Exibição de informações com printf().
-
-Sobre o código
-
-O programa utiliza uma estrutura chamada Pessoa, que armazena nome, idade e altura. Um array de estruturas permite guardar os dados de três pessoas e selecionar qual delas será exibida.
+- Criação e utilização de `struct`.
+- Organização de diferentes tipos de dados em uma estrutura.
+- Arrays de estruturas.
+- Manipulação de strings.
+- Entrada e saída de dados.
+- Criação e utilização de funções.
+- Passagem de estruturas como argumentos para funções.
 
 Tecnologias
 
-Linguagem C
+- Linguagem C
+- GCC
+- Bibliotecas `stdio.h` e `string.h`
 
-GCC
+Objetivo
 
-Bibliotecas stdio.h e string.h
+Praticar os fundamentos de estruturas de dados heterogêneas, desenvolvendo a lógica de programação e aprendendo a organizar códigos em C.
