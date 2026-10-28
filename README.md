@@ -1,31 +1,42 @@
-Estruturas de Dados Heterogêneas em C
+# Estruturas de Dados Heterogêneas em C
 
 Repositório com exercícios desenvolvidos durante meus estudos de Ciência da Computação, com foco no aprendizado de estruturas de dados heterogêneas na linguagem C.
 
-Exercícios
+## Exercícios
 
-1. Estruturas de dados heterogêneas — passo a passo
+### 1. Estruturas de dados heterogêneas — passo a passo
+
 Exercício guiado para praticar a criação e manipulação de estruturas em C, trabalhando com armazenamento, entrada e exibição de informações.
 
-2. Aplicação prática de `struct`
-Exemplo mais direto e objetivo, utilizando uma estrutura para armazenar dados de um paciente e uma função para exibir suas informações.
+### 2. Aplicação prática de struct
 
-Conceitos estudados
+Exemplo direto e objetivo, utilizando uma estrutura para armazenar dados de um paciente e uma função para exibir suas informações.
+
+### 3. Structs aninhadas
+
+Exercício que utiliza estruturas aninhadas para organizar os dados de um aluno e suas disciplinas, incluindo nome, professor e carga horária. Também aborda funções para cadastrar e exibir informações, ponteiros e arrays de estruturas.
+
+## Conceitos estudados
 
 - Criação e utilização de `struct`.
 - Organização de diferentes tipos de dados em uma estrutura.
 - Arrays de estruturas.
-- Manipulação de strings.
+- Structs aninhadas.
+- Manipulação de strings com `strcpy()`.
 - Entrada e saída de dados.
 - Criação e utilização de funções.
 - Passagem de estruturas como argumentos para funções.
+- Utilização de ponteiros para modificar e acessar estruturas.
+- Laços de repetição para percorrer arrays.
 
-Tecnologias
+## Tecnologias
 
 - Linguagem C
 - GCC
 - Bibliotecas `stdio.h` e `string.h`
 
-Objetivo
+## Objetivo
 
-Praticar os fundamentos de estruturas de dados heterogêneas, desenvolvendo a lógica de programação e aprendendo a organizar códigos em C.
+Praticar os fundamentos de estruturas de dados heterogêneas, desenvolvendo a lógica de programação e aprendendo a organizar e manipular dados em C.
+
+---
