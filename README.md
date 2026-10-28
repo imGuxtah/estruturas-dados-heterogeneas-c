@@ -16,6 +16,10 @@ Exemplo direto e objetivo, utilizando uma estrutura para armazenar dados de um p
 
 Exercício que utiliza estruturas aninhadas para organizar os dados de um aluno e suas disciplinas, incluindo nome, professor e carga horária. Também aborda funções para cadastrar e exibir informações, ponteiros e arrays de estruturas.
 
+### 4. Cadastro de produtos e controle de estoque
+
+Programa que utiliza uma estrutura `Produto` e um array de estruturas para armazenar e exibir informações de cinco produtos, incluindo nome, código, quantidade em estoque e preço.
+
 ## Conceitos estudados
 
 - Criação e utilização de `struct`.
